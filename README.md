@@ -1,2 +1,2 @@
 # Nada para ler
-## Ainda sem informação.
+## Ainda sem informação e vai continuar sem.

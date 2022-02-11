@@ -4,3 +4,4 @@
 ** OK **
  - Certo
  - Errado
+ - Certo/Errado
